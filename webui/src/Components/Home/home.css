@@ -1,0 +1,48 @@
+.home-container{
+    display: flex;
+    width:60%;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.home-title{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.home-movielist{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.home-like {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.movie-img-container {
+    padding: 0.5rem;
+}
+
+.movie-img {
+    width: 120px;
+    object-fit: contain;
+}
+
+.movie-container{
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(194, 194, 194);
+    margin: 1.5rem;
+    padding:0.5rem;
+}
+.navbar {
+   display: flex;
+}
