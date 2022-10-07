@@ -7,7 +7,7 @@
 npm install
 npm start
 ```
-- This website auto start with a web API. It run auto with URL: localhost:3000
+> This website auto start with a web API. It run auto with URL: localhost:3000
 ### API:
 - Folder: `/Movies/Movies.API`
 - Language: C# - .NET Core
